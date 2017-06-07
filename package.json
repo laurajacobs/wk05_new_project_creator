@@ -1,0 +1,22 @@
+{
+  "name": "new_Project_Creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeFileAndDirectory.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurajacobs/wk05_new_project_creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurajacobs/wk05_new_project_creator/issues"
+  },
+  "homepage": "https://github.com/laurajacobs/wk05_new_project_creator#readme"
+}
